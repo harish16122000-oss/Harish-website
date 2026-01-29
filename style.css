@@ -28,6 +28,13 @@
 }
 .nav-link:hover{
     color: rgb(204, 15, 211);
+    
+}
+.material-icons:hover{
+     color: rgb(204, 15, 211);
+}
+.material-icons{
+    color: rgba(0, 0, 0, 0.63);
 }
 @media (min-width:300px) and (max-width:990px){
     .a1{
