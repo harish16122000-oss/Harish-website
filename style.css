@@ -60,3 +60,13 @@
         display: none;
     }
 }
+.b1{
+    background-image:url(./image/bgimage.jpg);
+    padding: 10% 3% 35% 34%;
+}
+.c1{
+     text-align: center;
+     font-size: 50px;
+     font-weight: 700;
+     font-family: serif;
+}
